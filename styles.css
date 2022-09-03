@@ -109,6 +109,12 @@ td.eg { border-width: thin; text-align: center; }
 #abstractimg .horizontal, #abstractimg .left { word-spacing: 12px; font-size: 18px; text-anchor: middle; }
 #abstractimg .right { font-size: 25px; }
 
+div.scroll
+{
+  width:1300px;
+  height:400px;
+  overflow:auto;
+}
 #checkbox{
   position: fixed;
   top: 20px;
